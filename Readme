@@ -1,9 +1,13 @@
-You should have WESAD data set installed in your system.
+DOWNLOAD dataset from:
+https://uni-siegen.sciebo.de/s/pYjSgfOVs6Ntahr/download
+
+You should have WESAD data set installed in your system from link given above.
+
 All libraries should be installed in your laptop as mentioned in: 
-013851812_WESAD_36_Different_Models_v3.ipynb
+Dhananjai_Bajpai_WESAD_36_Different_Models_v3.ipynb
 
 1) To visualize and understand data set run:
-013851812_exploring-the-dataser_WESAD.ipynb
+Dhananjai_Bajpai_exploring-the-dataser_WESAD.ipynb
 
 2) To view 36 different models and test results on 7 different subjetcs run:
-013851812_WESAD_36_Different_Models_v3.ipynb
+Dhananjai_Bajpai_WESAD_36_Different_Models_v3.ipynb
